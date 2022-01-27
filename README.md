@@ -2,6 +2,7 @@ Testando Sistemas (README)
 
 Lista de Testes
 
-Teste 1A
-Teste 2A
-Teste 3A
+Teste 1 README
+Teste 2 README
+Teste 3 README
+Teste 4 README
